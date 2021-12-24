@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ShowDetailActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp">
+
+        <ImageView
+            android:layout_width="300sp"
+            android:layout_height="300sp"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="200dp"
+            android:layout_marginBottom="20dp"
+            app:srcCompat="@drawable/logo" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/card_detail"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/txNama_Kegiatan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Lomba Makendang Tunggal dan Tari Jauk Manis"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:textColor="#b3b140"
+                android:textSize="30dp"/>
+
+            <TextView
+                android:id="@+id/txBidang_Kegiatan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawablePadding="10dp"
+                android:text="Bidang Kesenian"
+                android:textAlignment="center"
+                android:textStyle="italic"
+                android:layout_marginTop="40dp"
+                android:textColor="#b3b140"
+                android:textSize="20dp"/>
+            <View
+                android:layout_width="match_parent"
+                android:visibility="visible"
+                android:layout_height="6dp"
+                android:background="#c5a880"/>
+            <TextView
+                android:id="@+id/txDeskripsi_Kegiatan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Lomba Makendang Tunggal dan Tari Jauk Manis merupakan kegiatan. Link Pendaftaran dapat dikases melalui link berikut ini..."
+                android:textStyle="italic"
+                android:layout_marginTop="15dp"
+                android:textColor="#532e1c"
+                android:textSize="20dp"/>
+            <View
+                android:layout_width="match_parent"
+                android:visibility="visible"
+                android:layout_height="6dp"
+                android:background="#c5a880"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawablePadding="10dp"
+                android:text="Tanggal Pelaksanaan"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:textStyle="italic"
+                android:textColor="#b3b140"
+                android:textSize="20dp"/>
+            <View
+                android:layout_width="match_parent"
+                android:visibility="visible"
+                android:layout_height="6dp"
+                android:background="#c5a880"/>
+            <TextView
+                android:id="@+id/txTgl_Kegiatan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="22-10-22"
+                android:textStyle="italic"
+                android:textColor="#000"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawablePadding="10dp"
+                android:text="Di Posting"
+                android:textStyle="italic"
+                android:textAlignment="center"
+                android:layout_marginTop="15dp"
+                android:textColor="#b3b140"
+                android:textSize="20dp"/>
+            <View
+                android:layout_width="match_parent"
+                android:visibility="visible"
+                android:layout_height="6dp"
+                android:background="#c5a880"/>
+            <TextView
+                android:id="@+id/txName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="Nama"
+                android:textStyle="italic"
+                android:textColor="#000"/>
+        </LinearLayout>
+    </RelativeLayout>
+
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#FFF"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <ImageView
+            android:id="@+id/home"
+            android:layout_width="0dp"
+            android:layout_height="48dp"
+            android:layout_weight="1"
+            android:src="@drawable/ic_home" />
+
+        <ImageView
+            android:id="@+id/add"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/ic_add_new"/>
+
+        <ImageView
+            android:id="@+id/profile"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/ic_account"/>
+
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

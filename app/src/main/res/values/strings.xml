@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Modul5Progmob</string>
+    <string-array name="genders">
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </string-array>
+</resources>

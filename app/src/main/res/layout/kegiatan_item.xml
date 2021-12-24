@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    android:id="@+id/kegiatan_item"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/txName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableStart="@drawable/ic_account_square"
+                android:drawablePadding="10dp"
+                android:text="Nama Lengkap"
+                android:textColor="#b3b140"
+                android:textSize="20dp"/>
+            <TextView
+                android:id="@+id/txNama_Kegiatan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Lomba Makendang Tunggal dan Tari Jauk Manis"
+                android:textStyle="bold"
+                android:textColor="#b3b140"
+                android:textSize="30dp"/>
+            <TextView
+                android:id="@+id/txBidang_Kegiatan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Bidang Kesenian"
+                android:drawableStart="@drawable/divisi"
+                android:layout_marginTop="10dp"
+                android:drawablePadding="10dp"
+                android:textStyle="italic"
+                android:textColor="#b3b140"
+                android:textSize="20dp"/>
+            <TextView
+                android:id="@+id/txDeskripsi_Kegiatan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Lomba Makendang Tunggal dan Tari Jauk Manis merupakan kegiatan. Link Pendaftaran dapat dikases melalui link berikut ini..."
+                android:textStyle="italic"
+                android:textColor="#532e1c"
+                android:textSize="20dp"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <TextView
+                    android:id="@+id/txTgl_Kegiatan"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:drawableStart="@drawable/ic_date"
+                    android:drawablePadding="10dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:text="2021-12-21"
+                    android:textStyle="bold"
+                    android:textColor="#b3b140"
+                    android:textSize="20dp"/>
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

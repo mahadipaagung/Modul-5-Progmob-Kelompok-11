@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/Modul5Progmob/Project/Modul5Progmob-App/app/src/main/res/layout/activity_account.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/Modul5Progmob/Project/Modul5Progmob-App/app/src/main/res/layout/activity_add_event.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/Modul5Progmob/Project/Modul5Progmob-App/app/src/main/res/layout/activity_detail_kegiatan_user.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/Modul5Progmob/Project/Modul5Progmob-App/app/src/main/res/layout/activity_edit_event.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/Modul5Progmob/Project/Modul5Progmob-App/app/src/main/res/layout/activity_edit_profile.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/Modul5Progmob/Project/Modul5Progmob-App/app/src/main/res/layout/activity_home.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/Modul5Progmob/Project/Modul5Progmob-App/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/Modul5Progmob/Project/Modul5Progmob-App/app/src/main/res/layout/activity_profile.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/Modul5Progmob/Project/Modul5Progmob-App/app/src/main/res/layout/activity_register.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/Modul5Progmob/Project/Modul5Progmob-App/app/src/main/res/layout/activity_show_detail.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/Modul5Progmob/Project/Modul5Progmob-App/app/src/main/res/layout/detail_kegiatan.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/Modul5Progmob/Project/Modul5Progmob-App/app/src/main/res/layout/kegiatan_item.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/PROGMOB-KELOMPOK 6/Project/PraktikumKelompok6-App/app/src/main/res/drawable/button_background.xml" value="0.290625" />
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/PROGMOB-KELOMPOK 6/Project/PraktikumKelompok6-App/app/src/main/res/drawable/button_background_login.xml" value="0.290625" />
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/PROGMOB-KELOMPOK 6/Project/PraktikumKelompok6-App/app/src/main/res/drawable/card_background.xml" value="0.290625" />
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/PROGMOB-KELOMPOK 6/Project/PraktikumKelompok6-App/app/src/main/res/drawable/edit_text_background.xml" value="0.290625" />
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/PROGMOB-KELOMPOK 6/Project/PraktikumKelompok6-App/app/src/main/res/drawable/edit_text_background_login.xml" value="0.290625" />
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/PROGMOB-KELOMPOK 6/Project/PraktikumKelompok6-App/app/src/main/res/drawable/ic_account.xml" value="0.290625" />
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/PROGMOB-KELOMPOK 6/Project/PraktikumKelompok6-App/app/src/main/res/drawable/ic_add_new.xml" value="0.290625" />
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/PROGMOB-KELOMPOK 6/Project/PraktikumKelompok6-App/app/src/main/res/drawable/ic_home.xml" value="0.290625" />
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/PROGMOB-KELOMPOK 6/Project/PraktikumKelompok6-App/app/src/main/res/layout/activity_account.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/PROGMOB-KELOMPOK 6/Project/PraktikumKelompok6-App/app/src/main/res/layout/activity_add_event.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/PROGMOB-KELOMPOK 6/Project/PraktikumKelompok6-App/app/src/main/res/layout/activity_detail_kegiatan_user.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/PROGMOB-KELOMPOK 6/Project/PraktikumKelompok6-App/app/src/main/res/layout/activity_edit_event.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/PROGMOB-KELOMPOK 6/Project/PraktikumKelompok6-App/app/src/main/res/layout/activity_edit_profile.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/PROGMOB-KELOMPOK 6/Project/PraktikumKelompok6-App/app/src/main/res/layout/activity_home.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/PROGMOB-KELOMPOK 6/Project/PraktikumKelompok6-App/app/src/main/res/layout/activity_login.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/PROGMOB-KELOMPOK 6/Project/PraktikumKelompok6-App/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/PROGMOB-KELOMPOK 6/Project/PraktikumKelompok6-App/app/src/main/res/layout/activity_profile.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/PROGMOB-KELOMPOK 6/Project/PraktikumKelompok6-App/app/src/main/res/layout/activity_register.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/PROGMOB-KELOMPOK 6/Project/PraktikumKelompok6-App/app/src/main/res/layout/activity_show_detail.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/PROGMOB-KELOMPOK 6/Project/PraktikumKelompok6-App/app/src/main/res/layout/detail_kegiatan.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/PROGMOB-KELOMPOK 6/Project/PraktikumKelompok6-App/app/src/main/res/layout/kegiatan_item.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Agung Mahadipa/AndroidStudioProjects/PROGMOB-KELOMPOK 6/Project/PraktikumKelompok6-App/app/src/main/res/layout/list_kegiatan_user_item.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
